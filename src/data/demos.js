@@ -1,0 +1,51 @@
+export const DEMOS = [
+  {
+    slug: "kadin-dogum",
+    title: "Kadın Doğum ve Hastalıkları",
+    description: "Kadın doğum kliniği için eğitilmiş yapay zeka asistanı. Randevu, bilgi alma ve hasta yönlendirme senaryolarını canlı test edin.",
+    icon: "🤰",
+    agentId: "agent_4101kn0589ddf8r902d8n06q6yjn",
+  },
+  {
+    slug: "ortopedi",
+    title: "Ortopedi",
+    description: "Ortopedi kliniği için eğitilmiş yapay zeka asistanı. Randevu, bilgi alma ve hasta yönlendirme senaryolarını canlı test edin.",
+    icon: "🦴",
+    agentId: "agent_0801kn04472zew4bzjt0hgv41r8g",
+  },
+  {
+    slug: "kardiyoloji",
+    title: "Kardiyoloji",
+    description: "Kardiyoloji kliniği için eğitilmiş yapay zeka asistanı. Randevu, bilgi alma ve hasta yönlendirme senaryolarını canlı test edin.",
+    icon: "🫀",
+    agentId: "agent_5801kn03n81kf66rws5xpch25r9n",
+  },
+  {
+    slug: "dis-klinigi",
+    title: "Diş Kliniği",
+    description: "Diş kliniği için eğitilmiş yapay zeka asistanı. Randevu, bilgi alma ve hasta yönlendirme senaryolarını canlı test edin.",
+    icon: "🦷",
+    agentId: "agent_7201kn035dx7estt2qa08gee16gd",
+  },
+  {
+    slug: "dermatoloji",
+    title: "Dermatoloji",
+    description: "Dermatoloji kliniği için eğitilmiş yapay zeka asistanı. Randevu, bilgi alma ve hasta yönlendirme senaryolarını canlı test edin.",
+    icon: "🔬",
+    agentId: "agent_5401kn02v59jf67thre20mfwd31q",
+  },
+  {
+    slug: "plastik-cerrahi",
+    title: "Plastik, Rekonstrüktif ve Estetik Cerrahi",
+    description: "Plastik, rekonstrüktif ve estetik cerrahi kliniği için eğitilmiş yapay zeka asistanı. Randevu, bilgi alma ve hasta yönlendirme senaryolarını canlı test edin.",
+    icon: "✨",
+    agentId: "agent_8501kmzwytvwfdbba1tp2r03srk7",
+  },
+  {
+    slug: "uroloji",
+    title: "Üroloji",
+    description: "Üroloji kliniği için eğitilmiş yapay zeka asistanı. Randevu, bilgi alma ve hasta yönlendirme senaryolarını canlı test edin.",
+    icon: "🫘",
+    agentId: "agent_7401kmzwb0erfd1at4zy8qamcamc",
+  },
+]

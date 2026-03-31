@@ -1,0 +1,12 @@
+@import url('https://db.onlinewebfonts.com/c/19ccdb9e38f5c5fad4aad241f48440eb?family=Ballega');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background: #FFF8F2;
+  color: #1A1A2E;
+  overflow-x: hidden;
+}
+
+a { text-decoration: none; color: inherit; }
