@@ -48,4 +48,18 @@ export const DEMOS = [
     icon: "🫘",
     agentId: "agent_7401kmzwb0erfd1at4zy8qamcamc",
   },
+  {
+    slug: "fonksiyonel-tip",
+    title: "Fonksiyonel Tıp",
+    description: "Fonksiyonel tıp kliniği için eğitilmiş yapay zeka asistanı. Randevu, bilgi alma ve hasta yönlendirme senaryolarını canlı test edin.",
+    icon: "🧬",
+    agentId: "agent_4301knm94xzcep1vk0b5ssh6h3h6",
+  },
+  {
+    slug: "medikal-estetik",
+    title: "Medikal Estetik",
+    description: "Medikal estetik kliniği için eğitilmiş yapay zeka asistanı. Randevu, bilgi alma ve hasta yönlendirme senaryolarını canlı test edin.",
+    icon: "💉",
+    agentId: "agent_1501knm9qc42e61bpf66tx48qent",
+  },
 ]
