@@ -21,13 +21,6 @@ export const DEMOS = [
     agentId: "agent_5801kn03n81kf66rws5xpch25r9n",
   },
   {
-    slug: "dis-klinigi",
-    title: "Diş Kliniği",
-    description: "Diş kliniği için eğitilmiş yapay zeka asistanı. Randevu, bilgi alma ve hasta yönlendirme senaryolarını canlı test edin.",
-    icon: "🦷",
-    agentId: "agent_7201kn035dx7estt2qa08gee16gd",
-  },
-  {
     slug: "dermatoloji",
     title: "Dermatoloji",
     description: "Dermatoloji kliniği için eğitilmiş yapay zeka asistanı. Randevu, bilgi alma ve hasta yönlendirme senaryolarını canlı test edin.",
