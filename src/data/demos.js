@@ -62,4 +62,11 @@ export const DEMOS = [
     icon: "💉",
     agentId: "agent_1501knm9qc42e61bpf66tx48qent",
   },
+  {
+    slug: "agiz-dis-sagligi",
+    title: "Ağız ve Diş Sağlığı",
+    description: "Ağız ve diş sağlığı kliniği için eğitilmiş yapay zeka asistanı. Randevu, bilgi alma ve hasta yönlendirme senaryolarını canlı test edin.",
+    icon: "😁",
+    agentId: "agent_1101krzcm4pff3btptft5gs1kv4p",
+  },
 ]
